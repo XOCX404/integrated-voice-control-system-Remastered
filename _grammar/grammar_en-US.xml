@@ -34,6 +34,10 @@
 						<tag>out="hold fire[hold_fire]";</tag>
 					</item>
 					<item>
+						no fire
+						<tag>out="hold fire[hold_fire]";</tag>
+					</item>
+					<item>
 						fire
 						<tag>out="fire[open_fire]";</tag>
 					</item>
