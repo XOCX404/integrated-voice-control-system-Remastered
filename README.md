@@ -1,3 +1,7 @@
+
+DONT USE THIS FORK I DONT KNOW ANYTHING ABOUT CODING!!
+
+
 # Integrated AI Voice Control System
  Integrated AI Voice Control System allows players to give commands to AI units within their group using their voice and Windows built-in voice recognition engine, all without having to install any third-party programs.
 
